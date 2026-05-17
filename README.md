@@ -1,5 +1,7 @@
 # FlexAI Visibility Platform
 
+[Demo Link](https://drive.google.com/file/d/1xKj6yhnt_6I7HDRZbaUHZwJPYSXWhOG5/view?usp=drive_link)
+
 > **AI-powered observability dashboard** for FlexAI GPU infrastructure — real-time **HolmesGPT LLM anomaly detection** (Ollama · Groq · OpenAI), Holmes RCA, Robusta playbook automation, distributed tracing, and on-call management in a single pane of glass.
 
 ---
